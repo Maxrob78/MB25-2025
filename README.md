@@ -1,2 +1,2 @@
 # MB25-2025
-A
+A card collection and money management game with an integrated store
