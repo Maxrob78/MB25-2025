@@ -32,7 +32,3 @@
 1.  Navigate to the **[Releases](../../releases)** tab of this repository.
 2.  Download the project archive (**ZIP**).
 3.  Extract the files and run the **executable file** to play immediately.
-
----
-
-*Developed by [Your Name/Username] - 2025*
