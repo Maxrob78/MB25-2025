@@ -1,0 +1,59 @@
+name,image,rarity,chance,attack,defense
+
+Tavinho,images/tavinho.jpg,commun,90,84,10
+Liam,images/liam.png,épique,10,70,75
+Loueye,images/loureg.jpg,épique,10,82,30
+Spirit,images/spirit.jpg,commun,90,30,70
+Polak,images/polak.jpg,commun,90,0,65
+M-7,images/m-7.jpg,épique,10,80,30
+Zeerox,images/zeerox.jpg,épique,10,80,70
+Nathinio,images/nathinio.jpg,mythique,3,89,40
+Ryan,images/ryan.jpg,rare,60,75,70
+Gabriel,images/gabriel.jpg,commun,90,20,60
+Sade,images/sade.jpg,mythique,3,92,40
+Kopoti,images/kopoti.jpg,épique,10,50,85
+Kilyan,images/kilyan.jpg,épique,10,90,30
+Johan,images/johan.jpg,mythique,3,70,70
+Luka,images/luka.jpg,épique,10,20,85
+Kai,images/kai.jpg,rare,60,75,20
+Imot,images/Imot.jpg,rare,60,75,20
+MonkeyDM,images/monkeyDM.jpg,rare,60,0,77
+Omerta,images/omerta.jpg,commun,90,60,50
+Forceclan,images/forceclan.jpg,rare,60,70,60
+lumii jr,images/lumii_jr.jpg,rare,60,74,10
+Alexandre,images/alexandre.jpg,commun,90,30,70
+Lloyd,images/Lloyd.jpg,rare,60,80,20
+Diamond Doku,images/diamond_doku.jpg,épique,20,84,30
+trotali jr,images/trotali_jr.jpg,mythique,3,92,40
+Nolan,images/nolan.jpg,rare,60,84,20
+Catmau,images/catmau.jpg,rare,60,80,20
+Icardi,images/icardi.jpg,mythique,3,90,40
+Lumii,images/lumii.png,épique,10,20,86
+Nika jr,images/nika_jr.jpg,rare,60,80,20
+Nono Mero,images/nono_mero.jpg,mythique,3,88,40
+Brc,images/brc.jpg,épique,10,87,20
+Esteban,images/esteban.jpg,mythique,3,30,92
+ZX Crakito,images/zx_crakito.jpg,épique,10,80,70
+RL9,images/rl9.jpg,mythique,3,91,40
+Aaron,images/aaron.jpg,légendaire,1,94,40
+Ekkrare,images/ekkrare.jpg,épique,10,30,91
+B,images/b.jpg,épique,10,30,87
+Nezox,images/nezox.jpg,mythique,3,85,40
+Camille Strider,images/camille_strider.jpg,commun,90,82,10
+Flo jr,images/flo_jr.jpg,commun,90,0,80
+Valox,images/valox.jpg,mythique,3,40,86
+Elekkrare_jr,images/elekkrare_jr.jpg,rare,60,80,20
+Sachluxk,images/sachluxk.jpg,commun,90,84,10
+Aaron Jr,images/aaron_jr.jpg,épique,8,87,30
+Savinho,images/savinho.jpg,commun,90,75,10
+Rayan,images/rayan.jpg,épique,10,83,30
+Rodri,images/rodri.jpg,épique,10,75,70
+Dufour,images/dufour.png,mythique,3,92,40
+Louka city,images/louka_city.jpg,commun,90,0,75
+Amau jr,images/amau_jr.jpg,épique,10,97,37
+Tima,images/tima.jpg,mythique,3,50,91
+wea1,images/wea1.jpg,mythique,3,80,50
+Timeo,images/timeo.jpg,épique,10,20,82
+Mex Jr,images/mex_jr.jpg,épique,10,85,30
+Felix Jr,images/felix_jr.jpg,rare,60,84,20
+Gorgein,images/gorgein.jpg,commun,90,0,79
